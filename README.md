@@ -31,27 +31,7 @@
 
 <h2>Getting Started</h2>
 <ul>
-   <li>
-      <h3>Activating Terra Invicta Game Code</h3>
-         <ul>
-            <li>
-               <p>In Steam Select <em>Games-&gt;Activate a product on steam</em></p>
-               <p><img src="Images/Instructions/Activate/1.png" alt="Step 1." title="Activation Step 1"></p>
-            </li>
-            <li>
-               <p>Follow the prompts and enter your code</p>
-               <p><img src="Images/Instructions/Activate/2.png" alt="Step 2." title="Activation Step 2"></p>
-            </li>
-         </ul>
-   </li>
-   <li>
-      <h3>Installing Terra Invicta</h3>
-   <ul>
-   <li>In Steam Right Click <em>Terria Invicta-&gt;Install</em></li>
-   </ul>
-   <p><img src="Images/Instructions/Install/1.png" alt="Step 1." title="Installation Step 1"></p>
-   </li>
-   <li>
+   
       <h3>Selecting Terra Invicta Beta Branch</h3>
            <ul>
             <li>
